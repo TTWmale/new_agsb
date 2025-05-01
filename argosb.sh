@@ -287,12 +287,6 @@ cat > /etc/s-box-ag/list.txt <<EOF
 1、443端口的vmess-ws-tls-argo节点，默认优选IPV4：104.16.0.0
 $line1
 
-
-
-3、80端口的vmess-ws-argo节点，默认优选IPV4：104.21.0.0
-$line7
-
-
 $baseurl
 
 相关快捷方式如下：
